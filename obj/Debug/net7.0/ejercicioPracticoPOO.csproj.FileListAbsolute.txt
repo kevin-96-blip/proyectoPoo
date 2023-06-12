@@ -1,0 +1,15 @@
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\bin\Debug\net7.0\ejercicioPracticoPOO.exe
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\bin\Debug\net7.0\ejercicioPracticoPOO.deps.json
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\bin\Debug\net7.0\ejercicioPracticoPOO.runtimeconfig.json
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\bin\Debug\net7.0\ejercicioPracticoPOO.dll
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\bin\Debug\net7.0\ejercicioPracticoPOO.pdb
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\obj\Debug\net7.0\ejercicioPracticoPOO.csproj.AssemblyReference.cache
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\obj\Debug\net7.0\ejercicioPracticoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\obj\Debug\net7.0\ejercicioPracticoPOO.AssemblyInfoInputs.cache
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\obj\Debug\net7.0\ejercicioPracticoPOO.AssemblyInfo.cs
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\obj\Debug\net7.0\ejercicioPracticoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\obj\Debug\net7.0\ejercicioPracticoPOO.dll
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\obj\Debug\net7.0\refint\ejercicioPracticoPOO.dll
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\obj\Debug\net7.0\ejercicioPracticoPOO.pdb
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\obj\Debug\net7.0\ejercicioPracticoPOO.genruntimeconfig.cache
+C:\Users\Kev\source\repos\ejercicioPracticoPOO\obj\Debug\net7.0\ref\ejercicioPracticoPOO.dll
