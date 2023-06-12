@@ -8,7 +8,8 @@
             int idEstudiante;
             int edadEstudiante;
             int Respuesta;
-            bool isValidId = false;
+            bool isValidId;
+            bool isValidAge;
 
             Estudiante estudiante1 = new Estudiante(1, "Kev", 23);
             Empleado empleado1 = new Empleado(2, "Mary", 25);
@@ -34,11 +35,11 @@
                 do {
                     Console.Write("Edad: ");
                     string inputEdad = Console.ReadLine();
-                    isValidId = int.TryParse(inputEdad, out edadEstudiante);
+                    isValidAge = int.TryParse(inputEdad, out edadEstudiante);
+      
+                    if(!isValidAge || edadEstudiante < 0) Console.WriteLine("Edad no valida, ingrese una edad valida, por favor");
 
-                    if(!isValidId) Console.WriteLine("Edad no valida, ingrese una edad valida, por favor");
-
-                } while (!isValidId);
+                } while (!isValidAge || edadEstudiante < 0);
 
                 estudiante1.setInfo(idEstudiante, nEstudiante, edadEstudiante);
 
